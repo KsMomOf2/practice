@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My Practice Pages
 
-You can use the [editor on GitHub](https://github.com/KsMomOf2/practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am using the [editor on GitHub](https://github.com/KsMomOf2/practice/edit/master/README.md) to maintain and preview the content of my website in Markdown files.of
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Alice Projects
 
-### Markdown
+### Java Projects
+
+### Coding Club Shenanigans
+
+### Hack BI Craziness
+
+### Girls Who Code
+
+### Cyber Patriot Team
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
